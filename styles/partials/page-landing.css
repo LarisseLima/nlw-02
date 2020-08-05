@@ -37,17 +37,12 @@
     height: 10.4rem;
     border-radius: 0.8rem;
     margin-right: 1.6rem;
-  
     font: 700 2.4rem Archivo;
-  
     display: flex;
     align-items: center;
     justify-content: center;
-  
     text-decoration: none;
-  
     color: var(--color-button-text);
-  
     transition: background 0.2s;
   }
   
