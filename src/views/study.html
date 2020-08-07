@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt_br">
+<html lang="pt_BR">
 
 <head>
     <meta charset="UTF-8">
@@ -75,6 +75,10 @@
 
         <main>
 
+            {% if proffys == "" %}
+            <p class="no-results">Nenhum professor encontrado com a sua pesquisa</p>
+            {% else %}
+
             {% for proffy in proffys %}
             <article class="teacher-item">
 
@@ -100,6 +104,10 @@
 
             </article>
             {%endfor%}
+
+            {% endif %}
+
+
 
         </main>
     </div>
