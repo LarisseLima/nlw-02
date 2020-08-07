@@ -9,7 +9,8 @@
     "url": "git+https://github.com/LarisseLima/nlw-02.git"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
