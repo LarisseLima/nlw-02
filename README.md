@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-    📖 Sua plataforma de estudos online
+    📖 Sua plataforma de estudos online,com os melhores professores.
 </h3>
 
 <h1 align="center">
