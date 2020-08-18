@@ -12,7 +12,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚧  Proffy 🏫 Em construção... 🚧
+	🚧  Proffy 🏫 Em construção.... 🚧
 </h4>
 
 <p align="center">
