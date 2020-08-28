@@ -58,7 +58,7 @@ git clone https://github.com/LarisseLima/nlw-02
 cd nlw
 
 # Baixar as dependências
-npm i
+npm install
 
 # Executar o servidor
 npm run dev
