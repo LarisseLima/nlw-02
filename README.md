@@ -66,13 +66,11 @@ npm run dev
 
 Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 
-
 ---
 
 ## 🛠 Tecnologias
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
-
 
 - HTML
 - CSS
