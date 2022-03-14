@@ -26,8 +26,7 @@
 
 ## 💻 Sobre o projeto
 
-Proffy - Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 3 a 9 de Agosto de 2020.
-
+Proffy - Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** 
 A proposta do projeto é uma aplicação que possa ligar quem deseja aprender, com quer ensinar. É possível encontrar alunos para o que você leciona, ou encontrar um professor para aquela matéria que você sempre quis aprender mais! Sem que haja nenhuma limitação de área!! 
 
 ---
